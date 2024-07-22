@@ -1,0 +1,28 @@
+
+  CURSORS ORIGINALLY MADE BY BY MAIK LINDNER, GERMANY 02/2016
+  maik.deviantart.com
+
+  
+  For 100 % resolution display:
+  
+  1. Right-click 'install 100 percent.inf' and then click 'Install'
+  2. Open > Control Panel > Mouse 
+  3. Change your cursor set to the "ml.blau 3 100%" cursor set
+
+
+
+  For 150 % resolution display:
+  
+  1. Right-click 'install 150 percent.inf' and then click 'Install'
+  2. Open > Control Panel > Mouse 
+  3. Change your cursor set to the "ml.blau 3 150%" cursor set
+
+
+
+  For 200 % resolution display:
+  
+  1. Right-click 'install 200 percent.inf' and then click 'Install'
+  2. Open > Control Panel > Mouse 
+  3. Change your cursor set to the "ml.blau 3 200%" cursor set
+
+

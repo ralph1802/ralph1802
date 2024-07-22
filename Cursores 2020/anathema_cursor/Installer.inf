@@ -1,0 +1,53 @@
+If you're trying to install the cursor, you're supposed to right click "Installer" and click "Install." Fish Bananas.
+
+[Version]
+signature="$CHICAGO$"
+
+[DefaultInstall]
+CopyFiles = Scheme.Cur, 
+AddReg    = Scheme.Reg
+
+[DestinationDirs]
+Scheme.Cur = 10,"%CUR_DIR%"
+Scheme.Txt = 10,"%CUR_DIR%"
+
+[Scheme.Reg]
+HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%,%10%\%CUR_DIR%\%help%,%10%\%CUR_DIR%\%work%,%10%\%CUR_DIR%\%busy%,%10%\%CUR_DIR%\%Cross%,%10%\%CUR_DIR%\%Text%,%10%\%CUR_DIR%\%Hand%,%10%\%CUR_DIR%\%Unavailiable%,%10%\%CUR_DIR%\%Vert%,%10%\%CUR_DIR%\%Horz%,%10%\%CUR_DIR%\%Dgn1%,%10%\%CUR_DIR%\%Dgn2%,%10%\%CUR_DIR%\%move%,%10%\%CUR_DIR%\%alternate%,%10%\%CUR_DIR%\%link%"
+
+; -- Common Information
+
+[Scheme.Cur]
+"Anathema Normal Select.cur"
+"Anathema Help Select.ani"
+"Anathema Working In Background.ani"
+"Anathema Busy.ani"
+"Anathema Precision Select.ani"
+"Anathema Text Select.ani"
+"Anathema Handwriting.ani"
+"Anathema Unavailable.cur"
+"Anathema Vertical Resize.ani"
+"Anathema Horizontal Resize.ani"
+"Anathema Diagonal Resize 1.ani"
+"Anathema Diagonal Resize 2.ani"
+"Anathema Move.ani"
+"Anathema Alternate Select.ani"
+"Anathema Link Select.cur"
+
+[Strings]
+CUR_DIR        	= "Cursors\Anathema"
+SCHEME_NAME    	= "Anathema"
+pointer		= "Anathema Normal Select.cur"
+help		= "Anathema Help Select.ani"
+work		= "Anathema Working In Background.ani"
+busy		= "Anathema Busy.ani"
+cross		= "Anathema Precision Select.ani"
+text		= "Anathema Text Select.ani"
+hand		= "Anathema Handwriting.ani"
+unavailiable	= "Anathema Unavailable.cur"
+vert		= "Anathema Vertical Resize.ani"
+horz		= "Anathema Horizontal Resize.ani"
+dgn1		= "Anathema Diagonal Resize 1.ani"
+dgn2		= "Anathema Diagonal Resize 2.ani"
+move		= "Anathema Move.ani"
+alternate	= "Anathema Alternate Select.ani"
+link		= "Anathema Link Select.cur"

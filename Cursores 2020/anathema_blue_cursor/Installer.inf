@@ -1,0 +1,53 @@
+If you're trying to install the cursor, you're supposed to right click "Installer" and click "Install." Fish Bananas.
+
+[Version]
+signature="$CHICAGO$"
+
+[DefaultInstall]
+CopyFiles = Scheme.Cur, 
+AddReg    = Scheme.Reg
+
+[DestinationDirs]
+Scheme.Cur = 10,"%CUR_DIR%"
+Scheme.Txt = 10,"%CUR_DIR%"
+
+[Scheme.Reg]
+HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%,%10%\%CUR_DIR%\%help%,%10%\%CUR_DIR%\%work%,%10%\%CUR_DIR%\%busy%,%10%\%CUR_DIR%\%Cross%,%10%\%CUR_DIR%\%Text%,%10%\%CUR_DIR%\%Hand%,%10%\%CUR_DIR%\%Unavailiable%,%10%\%CUR_DIR%\%Vert%,%10%\%CUR_DIR%\%Horz%,%10%\%CUR_DIR%\%Dgn1%,%10%\%CUR_DIR%\%Dgn2%,%10%\%CUR_DIR%\%move%,%10%\%CUR_DIR%\%alternate%,%10%\%CUR_DIR%\%link%"
+
+; -- Common Information
+
+[Scheme.Cur]
+"Normal Select (Anathema Blue).cur"
+"Help Select (Anathema Blue).ani"
+"Working In Background (Anathema Blue).ani"
+"Busy (Anathema Blue).ani"
+"Precision Select (Anathema Blue).ani"
+"Text Select (Anathema Blue).ani"
+"Handwriting (Anathema Blue).ani"
+"Unavailable (Anathema Blue).cur"
+"Vertical Resize (Anathema Blue).ani"
+"Horizontal Resize (Anathema Blue).ani"
+"Diagonal Resize 1 (Anathema Blue).ani"
+"Diagonal Resize 2 (Anathema Blue).ani"
+"Move (Anathema Blue).ani"
+"Alternate Select (Anathema Blue).ani"
+"Link Select (Anathema Blue).cur"
+
+[Strings]
+CUR_DIR        	= "Cursors\Anathema Blue"
+SCHEME_NAME    	= "Anathema Blue"
+pointer		= "Normal Select (Anathema Blue).cur"
+help		= "Help Select (Anathema Blue).ani"
+work		= "Working In Background (Anathema Blue).ani"
+busy		= "Busy (Anathema Blue).ani"
+cross		= "Precision Select (Anathema Blue).ani"
+text		= "Text Select (Anathema Blue).ani"
+hand		= "Handwriting (Anathema Blue).ani"
+unavailiable	= "Unavailable (Anathema Blue).cur"
+vert		= "Vertical Resize (Anathema Blue).ani"
+horz		= "Horizontal Resize (Anathema Blue).ani"
+dgn1		= "Diagonal Resize 1 (Anathema Blue).ani"
+dgn2		= "Diagonal Resize 2 (Anathema Blue).ani"
+move		= "Move (Anathema Blue).ani"
+alternate	= "Alternate Select (Anathema Blue).ani"
+link		= "Link Select (Anathema Blue).cur"

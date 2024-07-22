@@ -1,0 +1,70 @@
+Crystal Clear;
+
+Complete cursor set by theblueguy07
+
+Current version: v4.1 
+
+Update Log:
+
+> v4.1 - July/6/2018:
+
+- Added 2 new cursors for the Windows 10's Fall Creators Update; "Location Select", and "Person Select". 
+- Added 2 statics cursors; "Location Select", and "Person Select". 
+- Improved default "Text Select" animation speed.
+- Tweaked the color of Material Light's default Normal Select.
+- Premium: Added 2 new bonus cursors; "Working in background - Spinner", and "Busy - Spinner".
+
+> v4.0 - Nov/4/2017:
+
+- Mini version size reduced by 17%.
+- Thicker outlines for both the mini and regular size.
+- Material Light's default normal select is now also animated.
+- Default text hotspots adjusted.
+- Tweaked the animation speed.
+- Adjusted the working in background's elements so it's not touching the cursor.
+- Enhanced the graphics quality for the default link select.
+- Added "Statics" folder. A non-animated set is now available.  
+- Improved the tutorial on how to use bonus cursors.
+- Added two bonus cursors: "Working in background - 3D Ring" and "Busy - 3D Ring"
+- Premium: Tweaked help select's element spacing.
+- Premium: Refined outline for "Busy - Globule"
+- Premium: Refined outline for "Working in Background - Globule"
+- Premium: Added two bonus cursors: "Working in background - Bloom" and "Busy - Bloom"
+
+> v3.1 - Oct/30/2015:
+
+- Built-in shadow now removed.
+- Fixed proportions.
+- Added bonus cursor: Link select - Static.
+- Changed the defaults.
+
+> v3.0 - Aug/13/2015:
+
+- Thicker outlines for higher visibility.
+- Added variations: Material light and material dark.
+- Merged the normal and mini version into one single pack.
+- Added a bunch of new bonus cursors.
+- Improved tutorial on how to use bonus cursors.
+- Added optional premium pack
+- Changed the defaults.
+
+> v2.1 - 2014:
+
+- Added bonus cursors for the regular size: "Move"  Style 2,3,4, and 5.
+- Added bonus cursor for the regular size: "Normal Select - Smooth Fill"
+- Added bonus cursor for the regular size: "Link Select - Style 2"
+- Decreased the drop-shadow opacity.
+
+> v2.0 - June/2014:
+
+- Thicker outlines.
+- Increased the opacity a bit.
+- Tweaked the drop-shadow.
+
+> v.10 - Sep/21/2012:
+
+- Released the mini version.
+
+> v1.0 - Apr/27/2012:
+
+- Released (Regular size).

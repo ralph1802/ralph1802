@@ -1,0 +1,93 @@
+Night Diamond;
+
+Complete cursor set by theblueguy07
+
+Current Version: v3.0
+
+Update Log:
+
+> v3.0 - Jan/4/2018 
+
+- Overall size reduced by 7%.
+- Increased the speed of some animation.
+- Wrong hotspots fixed.
+- Added 2 new cursors for the Windows 10's Fall Creators Update; "Location Select" and "Person Select". 
+- Increased the glow effect of the default "Busy" and "Working in Background".
+- Added outline for the default "Alternate Select", and "Handwriting".
+- Removed some bonus cursors.
+- Added bonus cursors: "Link Select - Scan", and "Unavailable - Shake".
+- Enhanced the graphics of the default "Text Select", "Move", "Handwriting", and "Precision Select". 
+- Enhanced the graphics of "Text Select - Transparent", and "Text Select - Morph".  
+- Added "Statics" folder. A non-animated set is now available.  
+- Improved the tutorial on how to use bonus cursors.
+- Premium: Added 2 bonus cursors: "Busy - Shatter", and "Link Select - Sweep".
+- Premium: Removed some bonus cursors.
+- Premium: Increased the diamond animation of the default normal select by a few pixels. 
+- Premium: Increased the glow effect of "Busy - Shake and Glow", and the default "Working in Background".
+- Premium: Added outline for the default "Alternate Select".
+- Changed the defaults.
+
+
+> v2.0.2 - Jan/13/2017
+
+- Improved guide on how to use bonus cursors.
+
+
+> v2.0.1 - Jun/30/2015 
+
+- Added 2 new bonus cursors: Side beam (Thick&Thin)
+
+
+> v2.0 - Jun/24/2015
+
+- Released (Yellow Version).
+
+
+> v2.0 - Jun/21/2015
+
+- Released (Spectrum Pack).
+
+
+> v2.0  - Jun/16/2015
+
+- Released (Cyan Version).
+- Released (Iridescent Version).
+- Overall size shrunk by a few pixels.
+- Center diamond slightly enlarged.
+- Smoother animation.
+- Increased animation speed.
+- Changed default animations of everything except link select and busy.
+- Added new bonus cursors including "Text select - morph", "Busy - orbs", and more!
+- Improved animation for the classic "Busy", "Link select" and "Text select - transparent"
+- Added optional premium pack.
+
+
+> v1.0 - Jan/26/2013
+
+- Released (White Version).
+
+
+> v1.0 - Dec/27/2011
+
+- Released (Purple Version).
+
+
+> v1.0 - Nov/13/2011
+
+- Released (Red Version).
+
+
+> v1.0 - Nov/6/2011
+
+- Released (Orange Version).
+
+
+> v1.0 - Feb/12/2011
+
+- Released (Green Version).
+
+
+> v1.0 - Aug/28/2010
+
+- Released (Blue Version).
+

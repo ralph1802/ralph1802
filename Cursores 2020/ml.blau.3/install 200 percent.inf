@@ -1,0 +1,56 @@
+
+;	ml.blau 3
+;	CURSORS ORIGINALLY MADE BY BY MAIK LINDNER, POTSDAM 2012-08-10
+; Version 3 2016-06-10
+;	maik.deviantart.com
+
+; 200 % resolution:
+
+[Version]
+signature="$CHICAGO$"
+
+[DefaultInstall]
+CopyFiles = Scheme.Cur
+AddReg    = Scheme.Reg
+
+[DestinationDirs]
+Scheme.Cur = 10,"%CUR_DIR%"
+
+[Scheme.Reg]
+HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%,%10%\%CUR_DIR%\%help%,%10%\%CUR_DIR%\%work%,%10%\%CUR_DIR%\%busy%,%10%\%CUR_DIR%\%Cross%,%10%\%CUR_DIR%\%Text%,%10%\%CUR_DIR%\%Hand%,%10%\%CUR_DIR%\%Unavailiable%,%10%\%CUR_DIR%\%Vert%,%10%\%CUR_DIR%\%Horz%,%10%\%CUR_DIR%\%Dgn1%,%10%\%CUR_DIR%\%Dgn2%,%10%\%CUR_DIR%\%move%,%10%\%CUR_DIR%\%alternate%,%10%\%CUR_DIR%\%link%"
+
+[Scheme.Cur]
+ml_blau_alternate_hires.cur
+ml_blau_busy_64.ani
+ml_blau_diagonal_left_hires.cur
+ml_blau_diagonal_right_hires.cur
+ml_blau_link_hires.cur
+ml_blau_help_64.ani
+ml_blau_horizontal_hires.cur
+ml_blau_move_hires.cur
+ml_blau_normal_hires.cur
+ml_blau_pen_hires.cur
+ml_blau_precision_hires.cur
+ml_blau_text_hires.cur
+ml_blau_unavailable_hires.cur
+ml_blau_vertical_hires.cur
+ml_blau_working_64.ani
+
+[Strings]
+CUR_DIR			
+SCHEME_NAME		= "ml.blau 3 200%"
+alternate		= "ml_blau_alternate_hires.cur"
+busy			= "ml_blau_busy_64.ani"
+dgn1			= "ml_blau_diagonal_left_hires.cur"
+dgn2			= "ml_blau_diagonal_right_hires.cur"
+link			= "ml_blau_link_hires.cur"
+help			= "ml_blau_help_64.ani"
+horz			= "ml_blau_horizontal_hires.cur"
+move			= "ml_blau_move_hires.cur"
+pointer			= "ml_blau_normal_hires.cur"
+hand			= "ml_blau_pen_hires.cur"
+cross			= "ml_blau_precision_hires.cur"
+text			= "ml_blau_text_hires.cur"
+unavailiable	= "ml_blau_unavailable_hires.cur"
+vert			= "ml_blau_vertical_hires.cur"
+work			= "ml_blau_working_64.ani"

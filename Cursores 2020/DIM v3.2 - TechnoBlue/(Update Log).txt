@@ -1,0 +1,72 @@
+DIM;
+
+Complete Cursor set by theblueguy07
+
+Current Version: v3.2
+
+Update Log:
+
+> v3.2 - Oct/20/2018
+
+- Added exclusive "DIM Prismatic Version" for the premium set.
+- Added 1 bonus cursor: "Link Select - Stream".
+- Premium: Made the glow for the default "Precision Select" thicker.
+- Premium: Included "Location Select" in the static set.
+
+
+> v3.1 - Jan/17/2018
+
+- Tweaked the speed of some animation.
+- Increased outline for the default "Alternate Select", and "Handwriting".
+- Added 1 bonus cursor: "Link Select - Burst".
+- Added 2 new cursors for the Windows 10's Fall Creators Update; "Location Select" and "Person Select". 
+- Added "Statics" folder. A non-animated set is now available.  
+- Improved the tutorial on how to use bonus cursors.
+- Re-arranged the elements for the default "Working in Background", default "Busy", default "Help Select", "Busy - Glow Disc", "Busy - Orbs", "Working in Background - Glow Disc", and "Working in Background - Orbs". The elements don't touch each other anymore.
+- Improved the animation of "Normal Select - Permanent Glow".
+- Premium: Re-arranged the elements for the default "Help Select", "Busy - Glow Disc (Glossed)", "Busy - Quarter Disc", "Working in Background - Glow Disc (Glossed)", and "Working in Background - Quarter Disc". The elements don't touch each other anymore.
+- Premium: Increased outline for the default "Alternate Select", and "Handwriting".
+- Premium: Added outline for "Text Select - Needle".
+- Premium: Removed a bonus cursor.
+- Premium: Added 2 new bonus cursors: "Busy - Tron", and "Working in Background - Tron".
+
+
+> v3.0 - Dec/16/2015
+
+- DIM is now 10% smaller.
+- Increased the width of the glowing lines a bit.
+- Added new bonus cursors: Busy - Time, Busy - Colored Glitch, and more!
+- Improved "Text Select - Transparent"'s visibility.
+- Changed the defaults.
+- Added color variations.
+
+
+> v2.0.1 - Aug/10/2015
+
+- Added 2 bonus cursors: "Normal Select: Static" and "Normal Select: No Pulse".
+
+
+> v2.0 - July/19/2015
+
+- Size shrunk by a few pixels.
+- Increased the width of the glowing lines.
+- Now darker.
+- Added gloss.
+- Tweaked the animation speed.
+- Removed the built-in shadow.
+- Some bonus files are removed.
+- Added a bunch of new bonus files.
+- Added 3D variation (Premium).
+- Changed the defaults.
+- Added optional premium pack.
+
+
+> v1.2 - June/12/2015
+
+- Reduced the drop shadow opacity.
+- Added bonus cursors.
+
+
+> v1.0 - May/21/2013
+
+- Released.

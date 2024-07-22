@@ -1,0 +1,57 @@
+;Crystal Clear v4.1 | Material Light by TheBlueGuy07
+
+[Version]
+signature="$CHICAGO$"
+
+[DefaultInstall]
+CopyFiles = Scheme.Cur, 
+AddReg    = Scheme.Reg
+
+[DestinationDirs]
+Scheme.Cur = 10,"%CUR_DIR%"
+Scheme.Txt = 10,"%CUR_DIR%"
+
+[Scheme.Reg]
+HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%,%10%\%CUR_DIR%\%help%,%10%\%CUR_DIR%\%work%,%10%\%CUR_DIR%\%busy%,%10%\%CUR_DIR%\%Cross%,%10%\%CUR_DIR%\%Text%,%10%\%CUR_DIR%\%Hand%,%10%\%CUR_DIR%\%Unavailiable%,%10%\%CUR_DIR%\%Vert%,%10%\%CUR_DIR%\%Horz%,%10%\%CUR_DIR%\%Dgn1%,%10%\%CUR_DIR%\%Dgn2%,%10%\%CUR_DIR%\%move%,%10%\%CUR_DIR%\%alternate%,%10%\%CUR_DIR%\%link%,%10%\%CUR_DIR%\%pin%,%10%\%CUR_DIR%\%person%"
+
+; -- Common Information
+
+[Scheme.Cur]
+"[ML] Normal Select v4.1.ani"
+"[ML] Help Select v4.1.ani"
+"[ML] Working In Background v4.1.ani"
+"[ML] Busy v4.1.ani"
+"[ML] Precision Select v4.1.ani"
+"[ML] Text Select v4.1.ani"
+"[ML] Handwriting v4.1.ani"
+"[ML] Unavailable v4.1.ani"
+"[ML] Vertical Resize v4.1.ani"
+"[ML] Horizontal Resize v4.1.ani"
+"[ML] Diagonal Resize 1 v4.1.ani"
+"[ML] Diagonal Resize 2 v4.1.ani"
+"[ML] Move v4.1.ani"
+"[ML] Alternate Select v4.1.ani"
+"[ML] Link Select v4.1.ani"
+"[ML] Location Select v4.1.ani"
+"[ML] Person Select v4.1.ani"
+
+[Strings]
+CUR_DIR       	= "Cursors\Crystal Clear v4.1 - Material Light"
+SCHEME_NAME     	= "Crystal Clear v4.1 - Material Light"
+pointer		= "[ML] Normal Select v4.1.ani"
+help		= "[ML] Help Select v4.1.ani"
+work		= "[ML] Working In Background v4.1.ani"
+busy		= "[ML] Busy v4.1.ani"
+cross		= "[ML] Precision Select v4.1.ani"
+text		= "[ML] Text Select v4.1.ani"
+hand		= "[ML] Handwriting v4.1.ani"
+unavailiable	= "[ML] Unavailable v4.1.ani"
+vert		= "[ML] Vertical Resize v4.1.ani"
+horz		= "[ML] Horizontal Resize v4.1.ani"
+dgn1		= "[ML] Diagonal Resize 1 v4.1.ani"
+dgn2		= "[ML] Diagonal Resize 2 v4.1.ani"
+move		= "[ML] Move v4.1.ani"
+alternate		= "[ML] Alternate Select v4.1.ani"
+link		= "[ML] Link Select v4.1.ani"
+pin		= "[ML] Location Select v4.1.ani"
+person		= "[ML] Person Select v4.1.ani"
