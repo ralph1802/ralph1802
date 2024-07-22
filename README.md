@@ -16,7 +16,7 @@
 </div>
 <br>
 <div align="center">
-    <h3> Currently Learning:</h3>
+    <h3>🌱 Currently Learning:</h3>
     <img src="https://img.shields.io/static/v1?label=&message=Angular&logo=angular&logoColor=white&color=%23DD0031&style=flat" alt="Angular">
     <img src="https://img.shields.io/static/v1?label=&message=TypeScript&logo=typescript&logoColor=white&color=%232B2D7F&style=flat" alt="TypeScript">
     <img src="https://img.shields.io/static/v1?label=&message=React&logo=react&logoColor=white&color=%2361DAFB&style=flat" alt="React">
