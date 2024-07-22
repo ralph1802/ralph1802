@@ -21,5 +21,3 @@ I'm a Systems Engineer and a Self-Taught Programmer with a passion for technolog
 - [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?logo=twitter&logoColor=white)](https://x.com/subject1802)
 - [![Email](https://img.shields.io/badge/Email-%2312100D?logo=gmail&logoColor=white)](mailto:rleos1802@outlook.com)
 - [![Website](https://img.shields.io/badge/Website-%23FF5733?logo=globe&logoColor=white)](https://rleos.com/)
-
-
