@@ -34,6 +34,11 @@ I'm a Systems Engineer and a Self-Taught Programmer with a passion for technolog
 
 <div align="center">
      <h3> 📫 How to Reach Me:</h3>
+     <style>
+        a {
+            text-decoration: none;
+        }
+    </style>
      <a href="https://www.linkedin.com/in/ricardo-leos-624bb8267" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
