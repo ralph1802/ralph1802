@@ -4,13 +4,16 @@
 
 I'm a Systems Engineer and a Self-Taught Programmer with a passion for technology and innovation.
 
-### ⚡ Stack:
-- HTML <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="20" style="vertical-align: middle;"/>
-- CSS <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="20" style="vertical-align: middle;"/>
-- Sass <img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass" width="20" style="vertical-align: middle;"/>
-- JavaScript <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="20" style="vertical-align: middle;"/>
-- Git <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="20" style="vertical-align: middle;"/>
-- Ruby <img src="https://img.icons8.com/color/48/000000/ruby.png" alt="Ruby" width="20" style="vertical-align: middle;"/>
+<div align="center">
+    <h3>⚡ Stack</h3>
+    ![HTML](https://img.shields.io/static/v1?label=&message=HTML&logo=html5&logoColor=black&style=flat-square) HTML<br>
+    - ![CSS](https://img.shields.io/static/v1?label=&message=CSS&logo=css3&logoColor=black&style=flat-square) CSS<br>
+    - ![Sass](https://img.shields.io/static/v1?label=&message=Sass&logo=sass&logoColor=black&style=flat-square) Sass<br>
+    - ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&logo=javascript&logoColor=black&style=flat-square) JavaScript<br>
+    - ![Git](https://img.shields.io/static/v1?label=&message=Git&logo=git&logoColor=black&style=flat-square) Git<br>
+    - ![Ruby](https://img.shields.io/static/v1?label=&message=Ruby&logo=ruby&logoColor=black&style=flat-square) Ruby<br>
+    - ![Postman](https://img.shields.io/static/v1?label=&message=Postman&logo=postman&logoColor=black&style=flat-square) Postman
+</div>
 
 
 ### 🌱 Currently Learning:
@@ -22,13 +25,6 @@ I'm a Systems Engineer and a Self-Taught Programmer with a passion for technolog
 ### 🔭 Currently Working On:
 - Developing more programming skills and exploring new technologies. 🚀
 - Working on enhancing my expertise in web development and modern frameworks.
-
-
-
-
-
-
-
 
 <hr>
 
