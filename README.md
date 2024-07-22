@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hi there, I'm Ralph!👋🏽 (~Axel Leos~)</h1>
+    <h1>Hi there, I'm Ralph!👋🏽 (Axel Leos)</h1>
 </div> 
 
 I'm a Systems Engineer and a Self-Taught Programmer with a passion for technology and innovation.
