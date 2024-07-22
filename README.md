@@ -2,7 +2,7 @@
     <h1>Hi there, I'm Ralph!👋🏽 (Axel Leos)</h1>
 </div> 
 
-I'm a Systems Engineer and a Self-Taught Programmer with a passion for technology and innovation.
+<div align="center">I'm a Systems Engineer and a Self-Taught Programmer with a passion for technology and innovation.</div>
 
 <div align="center">
     <h3>⚡ Stack</h3>
@@ -34,16 +34,16 @@ I'm a Systems Engineer and a Self-Taught Programmer with a passion for technolog
 
 <div align="center">
      <h3> 📫 How to Reach Me:</h3>
-    <a href="https://www.linkedin.com/in/ricardo-leos-624bb8267" target="_blank" style="text-decoration: none;">
+    <a href="https://www.linkedin.com/in/ricardo-leos-624bb8267" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://x.com/subject1802" target="_blank" style="text-decoration: none;">
+    <a href="https://x.com/subject1802" target="_blank">
         <img src="https://img.shields.io/badge/X-%23000000?logo=x&logoColor=white" alt="X">
     </a>
-    <a href="mailto:rleos1802@outlook.com" style="text-decoration: none;">
+    <a href="mailto:rleos1802@outlook.com">
         <img src="https://img.shields.io/badge/Outlook-%23007AC6?logo=mail&logoColor=white" alt="Outlook">
     </a>
-    <a href="https://rleos.com/" target="_blank" style="text-decoration: none;">
+    <a href="https://rleos.com/" target="_blank">
         <img src="https://img.shields.io/badge/Website-%23128C7E?logo=rocket&logoColor=white" alt="Website">
     </a>
 </div>
