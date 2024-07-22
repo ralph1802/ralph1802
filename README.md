@@ -16,8 +16,19 @@ I'm a Systems Engineer and a Self-Taught Programmer with a passion for technolog
 - Open-source projects related to web development.
 - Innovative ideas and technology-driven solutions. 💡
 
-### 📫 How to Reach Me:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-leos-624bb8267)
-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?logo=twitter&logoColor=white)](https://x.com/subject1802)
-- [![Email](https://img.shields.io/badge/Email-%2312100D?logo=gmail&logoColor=white)](mailto:rleos1802@outlook.com)
-- [![Website](https://img.shields.io/badge/Website-%23FF5733?logo=globe&logoColor=white)](https://rleos.com/)
+<hr>
+
+<div align="center">
+     <a href="https://www.linkedin.com/in/ricardo-leos-624bb8267" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://x.com/subject1802" target="_blank">
+        <img src="https://img.shields.io/badge/X-%23000000?logo=x&logoColor=white" alt="X">
+    </a>
+    <a href="mailto:rleos1802@outlook.com">
+        <img src="https://img.shields.io/badge/Email-%2312100D?logo=mail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://rleos.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Website-%23128C7E?logo=rocket&logoColor=white" alt="Website">
+    </a>
+</div>
