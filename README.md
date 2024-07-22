@@ -6,25 +6,29 @@ I'm a Systems Engineer and a Self-Taught Programmer with a passion for technolog
 
 <div align="center">
     <h3>⚡ Stack</h3>
-    ![HTML](https://img.shields.io/static/v1?label=&message=HTML&logo=html5&logoColor=black&style=flat-square) HTML<br>
-    - ![CSS](https://img.shields.io/static/v1?label=&message=CSS&logo=css3&logoColor=black&style=flat-square) CSS<br>
-    - ![Sass](https://img.shields.io/static/v1?label=&message=Sass&logo=sass&logoColor=black&style=flat-square) Sass<br>
-    - ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&logo=javascript&logoColor=black&style=flat-square) JavaScript<br>
-    - ![Git](https://img.shields.io/static/v1?label=&message=Git&logo=git&logoColor=black&style=flat-square) Git<br>
-    - ![Ruby](https://img.shields.io/static/v1?label=&message=Ruby&logo=ruby&logoColor=black&style=flat-square) Ruby<br>
-    - ![Postman](https://img.shields.io/static/v1?label=&message=Postman&logo=postman&logoColor=black&style=flat-square) Postman
+    <img src="https://img.shields.io/static/v1?label=&message=HTML&logo=html5&logoColor=black&color=%23E34F26&style=flat" alt="HTML">
+    <img src="https://img.shields.io/static/v1?label=&message=CSS&logo=css3&logoColor=black&color=%231572B6&style=flat" alt="CSS">
+    <img src="https://img.shields.io/static/v1?label=&message=Sass&logo=sass&logoColor=black&color=%23CC6699&style=flat" alt="Sass">
+    <img src="https://img.shields.io/static/v1?label=&message=JavaScript&logo=javascript&logoColor=black&color=%23F7DF1C&style=flat" alt="JavaScript">
+    <img src="https://img.shields.io/static/v1?label=&message=Git&logo=git&logoColor=white&color=%23F05032&style=flat" alt="Git">
+    <img src="https://img.shields.io/static/v1?label=&message=Ruby&logo=ruby&logoColor=white&color=%23CC342D&style=flat" alt="Ruby">
+    <img src="https://img.shields.io/static/v1?label=&message=Postman&logo=postman&logoColor=white&color=%23FF6C37&style=flat" alt="Postman">
 </div>
 
 
-### 🌱 Currently Learning:
-- Angular <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="20" style="vertical-align: middle;"/>
-- TypeScript <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="20" style="vertical-align: middle;"/>
-- React <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="20" style="vertical-align: middle;"/>
-- Node.js <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="20" style="vertical-align: middle;"/>
+<div align="center">
+    <h3> Currently Learning:</h3>
+    <img src="https://img.shields.io/static/v1?label=&message=Angular&logo=angular&logoColor=white&color=%23DD0031&style=flat" alt="Angular">
+    <img src="https://img.shields.io/static/v1?label=&message=TypeScript&logo=typescript&logoColor=white&color=%232B2D7F&style=flat" alt="TypeScript">
+    <img src="https://img.shields.io/static/v1?label=&message=React&logo=react&logoColor=white&color=%2361DAFB&style=flat" alt="React">
+    <img src="https://img.shields.io/static/v1?label=&message=Node.js&logo=node.js&logoColor=white&color=%233C873A&style=flat" alt="Node.js">
+</div>
 
-### 🔭 Currently Working On:
-- Developing more programming skills and exploring new technologies. 🚀
-- Working on enhancing my expertise in web development and modern frameworks.
+<div align="center">
+    <h3>🔭 Currently Working On:</h3>
+    - Developing more programming skills and exploring new technologies. 🚀
+    - Working on enhancing my expertise in web development and modern frameworks.
+</div>
 
 <hr>
 
